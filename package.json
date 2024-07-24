@@ -1,0 +1,23 @@
+{
+  "name": "jsbob",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "type": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calummm/jsbob.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calummm/jsbob/issues"
+  },
+  "homepage": "https://github.com/calummm/jsbob#readme",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
